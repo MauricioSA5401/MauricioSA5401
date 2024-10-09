@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 👋 ¡Hola! Soy Mauricio Sánchez, estudiante de Ingeniería en Sistemas apasionado por la tecnología y el aprendizaje continuo. Me encanta explorar nuevas áreas del conocimiento y enfrentar retos que me ayuden a crecer como desarrollador.<br><br>💻 Actualmente, me estoy enfocando en el desarrollo de software, profundizando en lenguajes de programación y adquiriendo experiencia en diferentes tecnologías. Dedico mi tiempo a practicar y mejorar mis habilidades para poder crear soluciones innovadoras y de alto impacto.<br><br>🔧 Tengo especial interés en el desarrollo de aplicaciones, metodologías ágiles, y siempre estoy buscando maneras de optimizar mis proyectos a través de las mejores prácticas de programación.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100023308962186) 
 
 # 💻 Tech Stack:
